@@ -5,7 +5,7 @@ Links:
 1. [This Sec I](#sec-i)
 2. [This Sec I](# Sec I)
 3. [This Sec I](#Sec I)
-4. [This Sec I](#SecI)
+4. [This Sec I](#Sec-I)
 
 5. [This Sec II](#sec-ii)
 6. [This Sec II](# Sec II)
