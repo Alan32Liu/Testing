@@ -1,13 +1,10 @@
 # Testing
 Testing various things on GitHub.
 
-<img src="photo.png" width="100" height="100">
-
-Photo:
-![Alt text](photo.png "Photo" | width=100)
-![Alt text](photo.png "Photo" | width=200)
-![Alt text](photo.png "Photo" | width=50)
-![Alt text](photo.png "Photo")
+# Image
+```
+<img src="<photo_path>" width="100" height="100">
+```
 
 Links:
 1. [This Sec I](#sec-i)
