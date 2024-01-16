@@ -1,6 +1,12 @@
 # Testing
 Testing various things on GitHub.
 
+Photo:
+![Alt text](photo.png "Photo" | width=100)
+![Alt text](photo.png "Photo" | width=200)
+![Alt text](photo.png "Photo" | width=50)
+![Alt text](photo.png "Photo")
+
 Links:
 1. [This Sec I](#sec-i)
 2. [This Sec I](# Sec I)
